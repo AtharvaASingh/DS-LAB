@@ -26,7 +26,7 @@ int main()
 
    //Book 3
    cout<<"Enter book 3 ID: ";
-   cin >> id1;
+   cin >> id3;
 
    cin.ignore();
    cout<< "Enter Book 3 Title: "; 
